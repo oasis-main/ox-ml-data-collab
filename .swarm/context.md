@@ -1,15 +1,15 @@
-# fg-data-profiling (oasis fork) — Context
+# ox-ml-data-collab — Context
 
 ## What this is
-Fork of Data-Centric-AI-Community/fg-data-profiling (MIT, descended from ydataai/ydata-profiling MIT), maintained at oasis-main/fg-data-profiling.
+Fork of Data-Centric-AI-Community/fg-data-profiling (MIT, descended from ydataai/ydata-profiling MIT), maintained at oasis-main/ox-ml-data-collab.
 
 ## Why we forked
-fg-data-profiling is a Pandas/Spark profiling tool descended from ydata-profiling/pandas-profiling. We fork to (a) integrate with the oasis-data storage layer, (b) match the oasis-data brand surface, and (c) bundle profiling reports as a service alongside argilla labeling under a unified oasis-data product.
+fg-data-profiling is a Pandas/Spark profiling tool descended from ydata-profiling/pandas-profiling. We fork to (a) integrate with the oasis-data storage layer, (b) match the oasis-data brand surface, and (c) bundle profiling reports as a service alongside ox-llm-data-collab labeling under a unified oasis-data product.
 
 ## Strategic position
 Part of the **oasis-data** cloud product line. Sibling forks:
-- oasis-main/argilla — interactive labeling / curation UI
-- oasis-main/fg-data-profiling — automated profiling / EDA
+- oasis-main/ox-llm-data-collab — interactive labeling / curation UI
+- oasis-main/ox-ml-data-collab — automated profiling / EDA (this repo)
 
 Both rebrand under the oasis-data umbrella with custom UI, better social collaboration features, and tighter integration with the rest of the Oasis ecosystem (oasis-auth, oasis-cloud, oasis-dashboard).
 
